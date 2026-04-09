@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F97316&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+[Your+Name]+%F0%9F%91%8B;Java+Backend+Developer;FPT+University+%7C+SE+Student;Always+learning%2C+always+building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F97316&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Hoang+Anh+Tuan+%F0%9F%91%8B;Java+Backend+Developer;FPT+University+%7C+SE+Student;Always+learning%2C+always+building" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -14,7 +14,7 @@
 ```java
 public class TennyHoang extends Developer {
 
-    String name        = "Hoang Anh Tuan";
+    String name        = "[Your Full Name]";
     String university  = "FPT University Ho Chi Minh City";
     String major       = "Software Engineering";
     String semester    = "Semester 6";
@@ -95,10 +95,10 @@ public class TennyHoang extends Developer {
 ## 📫 Let's Connect
 
 <p align="center">
-  <a href="mailto:[your-email@gmail.com]">
+  <a href="mailto:ttuan0147@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/in/[your-linkedin]">
+  <a href="https://www.linkedin.com/in/tenny-ho%C3%A0ng-17927a402/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/tennyhoang/Tenny-Hoang">
@@ -107,5 +107,4 @@ public class TennyHoang extends Developer {
 </p>
 
 <p align="center">
-  <i>💡 "First, solve the problem. Then, write the code." — John Johnson</i>
-</p>
+  <i>💡 "First, solve the problem. Then
