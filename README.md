@@ -14,7 +14,7 @@
 ```java
 public class TennyHoang extends Developer {
 
-    String name        = "[Hoang Anh Tuan]";
+    String name        = "Hoang Anh Tuan";
     String university  = "FPT University Ho Chi Minh City";
     String major       = "Software Engineering";
     String semester    = "Semester 6";
