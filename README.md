@@ -1,10 +1,15 @@
+<div align="center">
+  <img src="https://raw.githubusercontent.com/tennyhoang/tennyhoang/main/banner.png" alt="Banner" width="100%"/>
+</div>
+
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F97316&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Hoang+Anh+Tuan+%F0%9F%91%8B;Java+Backend+Developer;FPT+University+%7C+SE+Student;Always+learning%2C+always+building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=F97316&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Hoang+Anh+Tuan+%F0%9F%91%8B;Java+Backend+Developer;FPT+University+%7C+SE+Student;Always+learning%2C+always+building+%F0%9F%9A%80" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tennyhoang&label=Profile+Views&color=f97316&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/tennyhoang?label=Followers&style=flat&color=f97316" alt="followers" />
+  <img src="https://komarev.com/ghpvc/?username=tennyhoang&label=Profile+Views&color=f97316&style=flat-square" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/tennyhoang?label=Followers&style=flat-square&color=f97316" alt="followers" />
+  <img src="https://img.shields.io/badge/Status-Looking%20for%20Internship-brightgreen?style=flat-square" alt="status" />
 </p>
 
 ---
@@ -22,7 +27,7 @@ public class TennyHoang extends Developer {
     String status      = "Looking for Internship 🚀";
 
     String[] currentlyLearning = {
-        "Spring Boot", "RESTful API", "Hibernate / JPA"
+        "Spring Boot 3", "Spring Security", "RESTful API", "Docker"
     };
 
     String goal = "Build clean, efficient, and maintainable backend systems";
@@ -36,12 +41,19 @@ public class TennyHoang extends Developer {
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
+  <br/>
   <img src="https://img.shields.io/badge/Servlet_JSP-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaFX-007396?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <br/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white"/>
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
 </p>
 
@@ -49,41 +61,110 @@ public class TennyHoang extends Developer {
 
 ## 🚀 Featured Projects
 
-### 🍽️ [Traditional Feast Order Management](https://github.com/tennyhoang/TraditionalFeastOrderManagement)
-> Java OOP console app for managing feast/catering services — customer records, dynamic menu, order lifecycle with binary file persistence.
-`Java` `OOP` `File I/O` `Console App`
-
----
-
-### 🏨 [Room Management Module](https://github.com/tennyhoang/RoomManagementModule)
-> Room & guest services management system for ATZ Resort — handles room availability, guest reservations, order updates and revenue reports.
-`Java` `OOP` `Resort System`
-
----
-
-### 🏷️ [Voucher & Hot Deal Management](https://github.com/tennyhoang/VoucherAndHotDealManagement)
-> Voucher & Hot Deal management system with Java Servlet + JSP — web-based, handles promotions and deal workflows.
-`Java` `Servlet` `JSP` `Web App`
-
----
-
-### ✅ [Todo Task Manager](https://github.com/tennyhoang/todo-task-manager)
-> Java desktop application for personal task management — create, track, and manage tasks with deadlines, priorities and persistent storage.
-`Java` `Desktop App` `Task Management`
-
----
-
-### 👓 [Glass Store System](https://github.com/tennyhoang/GlassStore)
-> Store management system for an eyewear shop.
-`Java`
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>👓 <a href="https://github.com/tennyhoang/GlassStore">GlassStore</a></h3>
+      <p>Full-stack eyewear e-commerce system with custom glasses design, prescription upload, cart & order workflow.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=flat-square&logo=spring-boot&logoColor=white"/>
+        <img src="https://img.shields.io/badge/JWT-000000?style=flat-square"/>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+      </p>
+      <ul>
+        <li>13 REST controllers, 24 JPA entities</li>
+        <li>Spring Security + JWT, 3 roles</li>
+        <li>Docker multi-stage build</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏷️ <a href="https://github.com/tennyhoang/VoucherAndHotDealManagement">Voucher & Hot Deal</a></h3>
+      <p>Web-based voucher and hot deal management system with role-based login and support request module.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Java_Servlet-007396?style=flat-square&logo=java&logoColor=white"/>
+        <img src="https://img.shields.io/badge/JSP-007396?style=flat-square"/>
+        <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MVC-orange?style=flat-square"/>
+      </p>
+      <ul>
+        <li>CRUD voucher & hot deal</li>
+        <li>Session-based authentication</li>
+        <li>Support request management</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏨 <a href="https://github.com/tennyhoang/RoomManagementModule">Room Management</a></h3>
+      <p>Console app for managing rooms and guests at ATZ Resort — reservations, stay updates and revenue reports.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Java_SE-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+        <img src="https://img.shields.io/badge/OOP-blue?style=flat-square"/>
+        <img src="https://img.shields.io/badge/File_I/O-green?style=flat-square"/>
+      </p>
+      <ul>
+        <li>Guest search by National ID</li>
+        <li>Monthly & room-type revenue reports</li>
+        <li>Binary file persistence</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>✅ <a href="https://github.com/tennyhoang/todo-task-manager">Todo Task Manager</a></h3>
+      <p>JavaFX desktop application for personal task management with deadline tracking and priority levels.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Java_17-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+        <img src="https://img.shields.io/badge/JavaFX-007396?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apache-maven&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MVC-orange?style=flat-square"/>
+      </p>
+      <ul>
+        <li>Priority: HIGH / MEDIUM / LOW</li>
+        <li>FXML-based UI</li>
+        <li>MVC architecture</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🍽️ <a href="https://github.com/tennyhoang/TraditionalFeastOrderManagement">Traditional Feast</a></h3>
+      <p>Console app for managing traditional feast/catering services — customers, menu, and order lifecycle.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Java_SE-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+        <img src="https://img.shields.io/badge/OOP-blue?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Serialization-green?style=flat-square"/>
+      </p>
+      <ul>
+        <li>Customer & menu management</li>
+        <li>Order lifecycle with validation</li>
+        <li>Auto-save on exit</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌐 <a href="https://github.com/tennyhoang/Tenny-Hoang">Portfolio Website</a></h3>
+      <p>Personal portfolio & online CV built with pure HTML/CSS/JS. Dark blue modern theme.</p>
+      <p>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+      </p>
+      <ul>
+        <li>Responsive design</li>
+        <li>Deployed on GitHub Pages</li>
+        <li><a href="https://tennyhoang.github.io/Tenny-Hoang/">🔗 Live Demo</a></li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=tennyhoang&show_icons=true&theme=dark&hide_border=true&title_color=f97316&icon_color=f97316&text_color=ffffff&bg_color=0d1117" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tennyhoang&layout=compact&theme=dark&hide_border=true&title_color=f97316&text_color=ffffff&bg_color=0d1117" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=tennyhoang&show_icons=true&theme=dark&hide_border=true&title_color=f97316&icon_color=f97316&text_color=ffffff&bg_color=0d1117" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tennyhoang&layout=compact&theme=dark&hide_border=true&title_color=f97316&text_color=ffffff&bg_color=0d1117" />
 </p>
 
 <p align="center">
@@ -101,10 +182,11 @@ public class TennyHoang extends Developer {
   <a href="https://www.linkedin.com/in/tenny-ho%C3%A0ng-17927a402/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/tennyhoang/Tenny-Hoang">
+  <a href="https://tennyhoang.github.io/Tenny-Hoang/">
     <img src="https://img.shields.io/badge/Portfolio-f97316?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
 <p align="center">
-  <i>💡 "First, solve the problem. Then
+  <i>💡 "First, solve the problem. Then, write the code." — John Johnson</i>
+</p>
