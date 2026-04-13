@@ -80,77 +80,15 @@ public class TennyHoang extends Developer {
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3>🏷️ <a href="https://github.com/tennyhoang/VoucherAndHotDealManagement">Voucher & Hot Deal</a></h3>
-      <p>Web-based voucher and hot deal management system with role-based login and support request module.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Java_Servlet-007396?style=flat-square&logo=java&logoColor=white"/>
-        <img src="https://img.shields.io/badge/JSP-007396?style=flat-square"/>
-        <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white"/>
-        <img src="https://img.shields.io/badge/MVC-orange?style=flat-square"/>
-      </p>
-      <ul>
-        <li>CRUD voucher & hot deal</li>
-        <li>Session-based authentication</li>
-        <li>Support request management</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🏨 <a href="https://github.com/tennyhoang/RoomManagementModule">Room Management</a></h3>
-      <p>Console app for managing rooms and guests at ATZ Resort — reservations, stay updates and revenue reports.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Java_SE-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-        <img src="https://img.shields.io/badge/OOP-blue?style=flat-square"/>
-        <img src="https://img.shields.io/badge/File_I/O-green?style=flat-square"/>
-      </p>
-      <ul>
-        <li>Guest search by National ID</li>
-        <li>Monthly & room-type revenue reports</li>
-        <li>Binary file persistence</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>✅ <a href="https://github.com/tennyhoang/todo-task-manager">Todo Task Manager</a></h3>
-      <p>JavaFX desktop application for personal task management with deadline tracking and priority levels.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Java_17-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-        <img src="https://img.shields.io/badge/JavaFX-007396?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apache-maven&logoColor=white"/>
-        <img src="https://img.shields.io/badge/MVC-orange?style=flat-square"/>
-      </p>
-      <ul>
-        <li>Priority: HIGH / MEDIUM / LOW</li>
-        <li>FXML-based UI</li>
-        <li>MVC architecture</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🍽️ <a href="https://github.com/tennyhoang/TraditionalFeastOrderManagement">Traditional Feast</a></h3>
-      <p>Console app for managing traditional feast/catering services — customers, menu, and order lifecycle.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Java_SE-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-        <img src="https://img.shields.io/badge/OOP-blue?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Serialization-green?style=flat-square"/>
-      </p>
-      <ul>
-        <li>Customer & menu management</li>
-        <li>Order lifecycle with validation</li>
-        <li>Auto-save on exit</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
       <h3>🌐 <a href="https://github.com/tennyhoang/Tenny-Hoang">Portfolio Website</a></h3>
-      <p>Personal portfolio & online CV built with pure HTML/CSS/JS. Dark blue modern theme.</p>
+      <p>Personal portfolio & online CV built with pure HTML/CSS/JS. Dark blue modern theme, responsive design.</p>
       <p>
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
       </p>
       <ul>
-        <li>Responsive design</li>
+        <li>Responsive design (mobile + desktop)</li>
         <li>Deployed on GitHub Pages</li>
         <li><a href="https://tennyhoang.github.io/Tenny-Hoang/">🔗 Live Demo</a></li>
       </ul>
