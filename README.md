@@ -64,6 +64,23 @@ public class TennyHoang extends Developer {
 <table>
   <tr>
     <td width="50%" valign="top">
+      <h3>🛍️ <a href="https://github.com/tennyhoang/smart-shop">Smart Shop</a></h3>
+      <p>Full-stack e-commerce web app với AI Chatbot tích hợp. Hỗ trợ đặt hàng, quản lý sản phẩm và tư vấn thông minh 24/7.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=flat-square&logo=spring-boot&logoColor=white"/>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Groq_AI-F55036?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+      </p>
+      <ul>
+        <li>JWT Authentication + Role-based (Admin/Customer)</li>
+        <li>AI Chatbot với Groq LLaMA 3.1</li>
+        <li>Admin Panel quản lý sản phẩm & đơn hàng</li>
+        <li><a href="https://youtu.be/2_VryweioA">📹 Demo Video</a></li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
       <h3>👓 <a href="https://github.com/tennyhoang/GlassStore">GlassStore</a></h3>
       <p>Full-stack eyewear e-commerce system with custom glasses design, prescription upload, cart & order workflow.</p>
       <p>
@@ -79,6 +96,8 @@ public class TennyHoang extends Developer {
         <li>Docker multi-stage build</li>
       </ul>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3>🌐 <a href="https://github.com/tennyhoang/Tenny-Hoang">Portfolio Website</a></h3>
       <p>Personal portfolio & online CV built with pure HTML/CSS/JS. Dark blue modern theme, responsive design.</p>
@@ -93,6 +112,7 @@ public class TennyHoang extends Developer {
         <li><a href="https://tennyhoang.github.io/Tenny-Hoang/">🔗 Live Demo</a></li>
       </ul>
     </td>
+    <td width="50%" valign="top"></td>
   </tr>
 </table>
 
