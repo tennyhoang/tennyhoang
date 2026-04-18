@@ -77,7 +77,7 @@ public class TennyHoang extends Developer {
         <li>JWT Authentication + Role-based (Admin/Customer)</li>
         <li>AI Chatbot với Groq LLaMA 3.1</li>
         <li>Admin Panel quản lý sản phẩm & đơn hàng</li>
-        <li><a href="https://youtu.be/2_VryweioA">📹 Demo Video</a></li>
+        <li><a href="[https://youtu.be/2_VryweioA](https://www.youtube.com/watch?v=2_VrywieioA)">📹 Demo Video</a></li>
       </ul>
     </td>
     <td width="50%" valign="top">
